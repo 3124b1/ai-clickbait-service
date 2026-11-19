@@ -159,4 +159,4 @@ TRAITHON은 AI 신뢰성을 주제로, AI가 사용자와 사회에 미칠 영�
 
 - [서비스 기획과 설계 선택](docs/01-service-design.md)
 - [후보 선정과 데이터 정리](docs/02-data-selection.md)
-- [평가 기준과 협업 경험](docs/03-evaluation-and-collaboration.md)
+- [평가 기준과 협업](docs/03-evaluation-and-collaboration.md)
